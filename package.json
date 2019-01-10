@@ -1,6 +1,6 @@
 {
-  "name": "index.js",
-  "main": "src/main.js",
+  "name": "Test1",
+  "main": "src/index.js",
   "dependencies": {
     "package.json": "2.0.1",
     "package-json": "5.0.0"
